@@ -11,3 +11,6 @@ https://edaplayground.com/x/8y9D
 
 Code4: Set verbosity_level and ID.sv
 https://edaplayground.com/x/JjEb
+
+Code5: Set Verbosity and Id component.sv
+https://edaplayground.com/x/nL2i
