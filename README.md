@@ -14,3 +14,6 @@ https://edaplayground.com/x/JjEb
 
 Code5: Set Verbosity and Id component.sv
 https://edaplayground.com/x/nL2i
+
+Code6: Set verbosity with Hierarachy.sv
+https://edaplayground.com/x/q_js
