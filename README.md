@@ -20,3 +20,21 @@ https://edaplayground.com/x/q_js
 
 Code7: UVM Recporting Macros.sv
 https://edaplayground.com/x/ZUnt
+
+Code8 UVM Severity Macros.sv
+https://edaplayground.com/x/nSV9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
