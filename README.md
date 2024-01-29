@@ -17,3 +17,6 @@ https://edaplayground.com/x/nL2i
 
 Code6: Set verbosity with Hierarachy.sv
 https://edaplayground.com/x/q_js
+
+Code7: UVM Recporting Macros.sv
+https://edaplayground.com/x/ZUnt
