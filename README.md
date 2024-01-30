@@ -24,8 +24,8 @@ https://edaplayground.com/x/ZUnt
 Code8 UVM Severity Macros.sv
 https://edaplayground.com/x/nSV9
 
-
-
+Day7: UVM Config_db example.sv
+https://edaplayground.com/x/8vzQ
 
 
 
