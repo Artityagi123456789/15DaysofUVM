@@ -27,11 +27,11 @@ https://edaplayground.com/x/nSV9
 Day7: UVM Config_db example.sv
 https://edaplayground.com/x/8vzQ
 
+Code9: Deriving class from UVM_Object.sv
+https://edaplayground.com/x/hAAh
 
-
-
-
-
+Code10: UVM Field macros int.sv
+https://edaplayground.com/x/hgx6
 
 
 
