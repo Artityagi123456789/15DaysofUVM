@@ -48,4 +48,32 @@ https://edaplayground.com/x/VLRC
 Code15 UVM Config_db example.sv
 https://edaplayground.com/x/8vzQ
 
+Code16: UVM Construction_phase.sv
+https://edaplayground.com/x/fpqq
+
+Code17: UVM Build_phase in Multiple_Component.sv
+https://edaplayground.com/x/dYuh
+
+Code18: UVM Connect_phase Execution.sv
+https://edaplayground.com/x/CmAP
+
+Code19: UVM Raising_Objecton.sv
+https://edaplayground.com/x/W45j
+
+Code:20 Time_Consuming_phase in Single_componet.sv
+https://edaplayground.com/x/uimx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
